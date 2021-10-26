@@ -1,0 +1,29 @@
+.title {
+  color: paleturquoise;
+  text-shadow: 2px 2px lawngreen;
+  font-size: 200px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: left;
+}
+
+.intro {
+  color: lightcoral;
+  text-shadow: 4px 4px grey;
+  font-size: 75px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.CvtJn79ijHxXBjalx5fyigHaEK&pid=Api");
+}
+
+.Navbar {
+  color: crimson;
+  border: 10px dotted whitesmoke;
+  text-align: center;
+  font-family: papyrus;
+  font-size: 35px;
+  border-radius: 25px;
+  font-weight: bold;
+}
