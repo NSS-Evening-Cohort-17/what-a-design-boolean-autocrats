@@ -35,18 +35,22 @@ h4{
 .img__flexbox{
   display:flex;
   background-color:wheat;
+  width:300px;
 }
 
 .img__littlerat {
- flex-grow: 3;
+  width: 500px; 
+ margin: 25px 0px 5em 7em;
 }
 
 .img__ratstock{
   flex-grow: 1;
+  transform: rotate(180deg);
 }
 
 .nastyrat{
   flex-grow: 1;
+  transform: rotate(45deg);
 }
 
 p{
@@ -60,5 +64,20 @@ p{
 }
 
 .img__molerat{
-  width:100px;
+  width:300px;
+  margin: 1em 0em 0em 3em;
+}
+
+li{
+  font-family: cursive;
+}
+
+p{
+  font-size: 5pt;
+  background-color:rgb(91, 170, 144);
+}
+
+.img__diet{
+  transform: rotate(20deg);
+  margin: 5em 0em 1em 4em;
 }
