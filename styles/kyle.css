@@ -1,0 +1,68 @@
+html {
+    background-image: url(https://media.pri.org/s3fs-public/styles/open_graph/public/sloth.jpg?itok=l0-AxA4f);
+}
+
+.Navbar {
+    color: crimson;
+    border: 10px dotted whitesmoke;
+    text-align: center;
+    font-family: papyrus;
+    font-size: 35px;
+    border-radius: 25px;
+    font-weight: bold;
+  }
+
+  .page--header {
+    display: flex;
+    margin: 4rem;
+    justify-content: space-evenly;
+  }
+
+  h1 {
+    font-size: 96pt;
+    text-align: center;
+    font-family: 'Slackey', cursive;
+    color: rgb(223, 223, 87);
+    margin-top: -4rem;
+    margin-bottom: 22rem;
+    width:160%;
+}
+
+.intro {
+    display: flex;
+    margin: -2rem;
+    justify-content: space-around;
+    background-color: rgb(209, 124, 139);
+    border: 12px dotted orange;
+}
+
+h2 {
+    font-size: 78pt;
+    color: rgb(122, 228, 90);
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.pics1 {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.img1 {
+    display: flex;
+    border: 59px solid rgb(112, 36, 93);
+    width: 50%;
+}
+
+.img2 {
+    display:flex;
+    border: 77px solid aqua;
+    width:20%
+}
+
+p {
+    display: flex;
+    font-size: 48pt;
+    color: yellow;
+}
+  
