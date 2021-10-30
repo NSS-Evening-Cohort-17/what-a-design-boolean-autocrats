@@ -60,9 +60,83 @@ h2 {
     width:20%
 }
 
-p {
+.quote1 {
     display: flex;
     font-size: 48pt;
     color: yellow;
 }
+
+.left {
+    display: flex;
+    border: 10px solid grey;
+    margin: 2rem;
+    justify-content: space-evenly;
+}
+
+h3 {
+    font-size: 32pt;
+    color: turquoise;
+}
+
+.locations {
+    font-size: 24pt;
+    color: orange;
+    width: 25%;
+}
+
+h4 {
+    font-size: 32pt;
+    color: turquoise;
+}
+
+.diet {
+    font-size: 24pt;
+    color: orange;
+    width: 25%;
+}
+
+.right {
+    display: flex;
+    border: 20px solid white;
+    margin: 2rem;
+    justify-content: space-evenly;
+}
+
+h5 {
+    font-size: 32pt;
+    color: turquoise;
+}
+
+.lifespan {
+    font-size: 24pt;
+    color: orange;
+    width: 25%;
+}
+
+h6 {
+    font-size: 32pt;
+    color: turquoise;
+}
+
+.predators {
+    font-size: 24pt;
+    color: orange;
+    width: 25%;
+}
+
+h8 {
+    font-size: 66pt;
+    color: greenyellow;
+    text-align: center;
+}
+
+.why {
+    font-size: 48pt;
+    font-style: italic;
+    color: white;
+}
+
+
+
+
   
